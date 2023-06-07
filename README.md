@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shailyy066
 - 👀 I’m interested in ...web development 
-- 🌱 I’m currently learning ...css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...mail
+- 🌱 I’m currently learning ...back-end.
+- 💞️ I’m looking to collaborate  ...
+- 📫 How to reach me ...201294@juitsolan.in
 
 <!---
 shailyy066/shailyy066 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
